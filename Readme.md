@@ -106,14 +106,14 @@ Cap discounts at 20% company-wide, and conduct a targeted pricing review for the
 ```
 retail-sales-analysis/
 ├── README.md
-├── notebooks/
+├── Jupyter_Notebooks/
 │   └── data_cleaning_and_export.ipynb
-├── sql/
+├── SQL/
 │   ├── schema.sql
-│   └── analysis_queries.sql
+│   └── sql-analysis-queries.sql
 ├── images/
 │   └── Interactive Dashboard Image.png
-└── data/
+└── Data/
     └── (sample rows only — full dataset via Kaggle link above)
 ```
 
