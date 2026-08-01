@@ -8,7 +8,6 @@
 
 
 
-
 🔗 **[Live Story Walkthrough](#)** *(https://public.tableau.com/app/profile/rakes.dey/viz/SuperstoreRetailAnalysisUncoveringa125KDiscountProblem/SuperstoreProfitabilityDeep-DiveTheDiscountProblem?publish=yes)*
 
 ---
