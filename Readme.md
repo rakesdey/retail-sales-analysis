@@ -63,7 +63,7 @@ Wrote a full analysis query set covering:
 - **Discount bucket analysis** (`CASE WHEN`) — the core insight
 - Regional ranking (`RANK()`, `DENSE_RANK()`)
 
-See [`sql-analysis-queries.sql`](sql-analysis-queries.sql) for the full query set.
+See [`SQL\sql-analysis-queries.sql`](SQL\sql-analysis-queries.sql) for the full query set.
 
 ### 4. Dashboard & Story (Tableau)
 - Built an **interactive dashboard** with a global region filter, KPI cards, trend analysis, and drill-down charts
@@ -112,7 +112,7 @@ retail-sales-analysis/
 │   ├── schema.sql
 │   └── analysis_queries.sql
 ├── images/
-│   └── dashboard_screenshot.png
+│   └── Interactive Dashboard Image.png
 └── data/
     └── (sample rows only — full dataset via Kaggle link above)
 ```
