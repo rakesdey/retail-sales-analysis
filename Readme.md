@@ -2,13 +2,13 @@
 
 **An end-to-end data analysis project uncovering why discounting strategy was silently destroying profit — from raw CSV to a normalized PostgreSQL database to an interactive Tableau dashboard and narrative story.**
 
-🔗 **[Live Interactive Dashboard](#)** *(https://public.tableau.com/app/profile/rakes.dey/viz/SuperstoreRetailAnalysisUncoveringa125KDiscountProblem/SuperstoreAnalysis-InteractiveDashboard?publish=yes)*
+🔗 **[Live Interactive Dashboard](#)** *(https://public.tableau.com/app/profile/rakes.dey/viz/SuperstoreRetailAnalysisUncoveringa125KDiscountProblem_17860634414370/SuperstoreAnalysis-InteractiveDashboard?publish=yes)*
 
 
 
 
 
-🔗 **[Live Story Walkthrough](#)** *(https://public.tableau.com/app/profile/rakes.dey/viz/SuperstoreRetailAnalysisUncoveringa125KDiscountProblem/SuperstoreProfitabilityDeep-DiveTheDiscountProblem?publish=yes)*
+🔗 **[Live Story Walkthrough](#)** *(https://public.tableau.com/app/profile/rakes.dey/viz/SuperstoreRetailAnalysisUncoveringa125KDiscountProblem_17860634414370/SuperstoreProfitabilityDeep-DiveTheDiscountProblem?publish=yes)*
 
 ---
 
