@@ -2,13 +2,13 @@
 
 **An end-to-end data analysis project uncovering why discounting strategy was silently destroying profit — from raw CSV to a normalized PostgreSQL database to an interactive Tableau dashboard and narrative story.**
 
-🔗 **[Live Interactive Dashboard](#)** *(https://public.tableau.com/app/profile/rakes.dey/viz/SuperstoreRetailAnalysisUncoveringa125KDiscountProblem/SuperstoreAnalysis-InteractiveDashboard?publish=yes)*
+🔗 **[Live Interactive Dashboard](#)** *(https://public.tableau.com/app/profile/rakes.dey/viz/SuperstoreRetailAnalysisUncoveringa125KDiscountProblem_17860634414370/SuperstoreAnalysis-InteractiveDashboard?publish=yes)*
 
 
 
 
 
-🔗 **[Live Story Walkthrough](#)** *(https://public.tableau.com/app/profile/rakes.dey/viz/SuperstoreRetailAnalysisUncoveringa125KDiscountProblem/SuperstoreProfitabilityDeep-DiveTheDiscountProblem?publish=yes)*
+🔗 **[Live Story Walkthrough](#)** *(https://public.tableau.com/app/profile/rakes.dey/viz/SuperstoreRetailAnalysisUncoveringa125KDiscountProblem_17860634414370/SuperstoreProfitabilityDeep-DiveTheDiscountProblem?publish=yes)*
 
 ---
 
@@ -63,7 +63,7 @@ Wrote a full analysis query set covering:
 - **Discount bucket analysis** (`CASE WHEN`) — the core insight
 - Regional ranking (`RANK()`, `DENSE_RANK()`)
 
-See [`SQL\sql-analysis-queries.sql`](SQL\sql-analysis-queries.sql) for the full query set.
+See [`SQL/sql-analysis-queries.sql`](SQL/sql-analysis-queries.sql) for the full query set.
 
 ### 4. Dashboard & Story (Tableau)
 - Built an **interactive dashboard** with a global region filter, KPI cards, trend analysis, and drill-down charts
@@ -106,14 +106,14 @@ Cap discounts at 20% company-wide, and conduct a targeted pricing review for the
 ```
 retail-sales-analysis/
 ├── README.md
-├── notebooks/
+├── Jupyter_Notebooks/
 │   └── data_cleaning_and_export.ipynb
-├── sql/
+├── SQL/
 │   ├── schema.sql
-│   └── analysis_queries.sql
+│   └── sql-analysis-queries.sql
 ├── images/
 │   └── Interactive Dashboard Image.png
-└── data/
+└── Data/
     └── (sample rows only — full dataset via Kaggle link above)
 ```
 
